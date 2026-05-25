@@ -37,14 +37,13 @@
 - Aprendí sobre códigos de respuesta HTTP
 - Usé parámetros en solicitudes HTTP
 
-- ### Defensive Security Intro - Junior Security Analyst
+### Junior Security Analyst
 - Aprendí a usar un SIEM dashboard
 - Identifiqué una IP maliciosa en alertas críticas
 - Escalé una alerta de seguridad
 - Bloqueé una IP maliciosa en el firewall
 - Experiencia real como analista de seguridad
 
-- 
 ### SOC Fundamentals
 - Aprendí el rol de un analista SOC Level 1
 - Usé un SIEM dashboard para analizar alertas
@@ -52,8 +51,7 @@
 - Apliqué el modelo de las 5 Ws en investigación
 - Analicé port scanning y actividad sospechosa
 
-- 
 ## Badges TryHackMe
 - 🔥 7 Day Streak - Achieving a 7 day hacking streak
 - 🐧 cat linux.txt - Being competent in Linux
--  🕸️ Webbed - Being competent in Web
+- 🕸️ Webbed - Being competent in Web
