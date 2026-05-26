@@ -61,3 +61,4 @@
 - 🔥 7 Day Streak - Achieving a 7 day hacking streak
 - 🐧 cat linux.txt - Being competent in Linux
 - 🕸️ Webbed - Being competent in Web
+- 🔥 3 Day Streak - Achieving a 3 day hacking streak
