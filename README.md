@@ -51,6 +51,12 @@
 - Apliqué el modelo de las 5 Ws en investigación
 - Analicé port scanning y actividad sospechosa
 
+- ### SOC Role in Blue Team
+- Aprendí el rol del SOC en el equipo defensivo
+- Responsabilidades de un analista SOC
+- Cómo funciona el Blue Team
+- Detección y respuesta a incidentes
+
 ## Badges TryHackMe
 - 🔥 7 Day Streak - Achieving a 7 day hacking streak
 - 🐧 cat linux.txt - Being competent in Linux
