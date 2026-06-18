@@ -1,85 +1,81 @@
-# 🛡️ Mi Aprendizaje en Ciberseguridad
+# 🛡️ My Cybersecurity Learning Journey
 
-## 👤 Mis Perfiles
-- **TryHackMe:** https://tryhackme.com/p/fabi26.fb
-- **GitHub:** https://github.com/fabi26fb-crypto/ciberseguridad-notas
+## 👤 My Profiles
+- TryHackMe: https://tryhackme.com/p/fabi26.fb
+- GitHub: https://github.com/fabi26fb-crypto/ciberseguridad-notas
 
 ---
 
-## ✅ Rooms Completados en TryHackMe
+## ✅ Completed TryHackMe Rooms
 
 ### 🐧 Linux
-| Room | Dificultad | Lo que aprendí |
-|------|-----------|----------------|
-| [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1) | Intro | Navegar directorios con `cd`, ver archivos con `cat`, reemplazar contenido con `echo` |
+| Room | Difficulty | What I Learned |
+|------|------------|----------------|
+| Linux Fundamentals Part 1 | Intro | Directory navigation with cd, file viewing with cat, content replacement with echo |
 
----
-
-### 🌐 Redes y Protocolos
-| Room | Dificultad | Lo que aprendí |
-|------|-----------|----------------|
-| [What is Networking?](https://tryhackme.com/room/whatisnetworking) | Intro | Fundamentos de redes, cómo funciona internet |
-| [DNS in Detail](https://tryhackme.com/room/dnsindetail) | Fácil | Cómo funciona el DNS, registros A/CNAME/MX/TXT, TLDs, subdominios, `nslookup` |
-| [HTTP in Detail](https://tryhackme.com/room/httpindetail) | Fácil | Protocolo HTTP, métodos GET/POST/PUT/DELETE, códigos de respuesta, parámetros |
-
----
+### 🌐 Networking & Protocols
+| Room | Difficulty | What I Learned |
+|------|------------|----------------|
+| What is Networking? | Intro | Networking fundamentals, how the internet works |
+| DNS in Detail | Easy | How DNS works, A/CNAME/MX/TXT records, TLDs, subdomains, nslookup |
+| HTTP in Detail | Easy | HTTP protocol, GET/POST/PUT/DELETE methods, response codes, parameters |
 
 ### 🪟 Windows
-| Room | Dificultad | Lo que aprendí |
-|------|-----------|----------------|
-| [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx) | Intro | Escritorio de Windows, sistema de archivos NTFS, UAC, Panel de Control |
-| [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x) | Intro | Configuración del sistema, monitorización de recursos, registro de Windows |
+| Room | Difficulty | What I Learned |
+|------|------------|----------------|
+| Windows Fundamentals 1 | Intro | Windows desktop, NTFS file system, UAC, Control Panel |
+| Windows Fundamentals 2 | Intro | System configuration, resource monitoring, Windows registry |
+
+### ⚔️ Offensive Security
+| Room | Difficulty | What I Learned |
+|------|------------|----------------|
+| Offensive Security Intro | Easy | Introduction to ethical hacking, first legal website hack experience |
+
+### 🛡️ Defensive Security & SOC
+| Room | Difficulty | What I Learned |
+|------|------------|----------------|
+| Defensive Security Intro | Easy | Introduction to SOC, SIEM, DFIR, basic malware analysis |
+| Junior Security Analyst Intro | Easy | SIEM dashboard usage, malicious IP identification, alert escalation, firewall blocking |
+| SOC Fundamentals | Easy | SOC L1 analyst role, 5 Ws model, port scanning analysis |
+| SOC Role in Blue Team | Easy | SOC role in the defensive team, detection and incident response |
+| SOC L1 Alert Triage | Easy | SOC alert triage, systematic approach to prioritizing incidents |
+| Intro to Detection Engineering | Easy | What Detection Engineering is, how it works in a SOC, building effective detections |
+
+### 🔍 Digital Forensics
+| Room | Difficulty | What I Learned |
+|------|------------|----------------|
+| Intro to Digital Forensics | Easy | Digital forensics fundamentals, processes and hands-on practical example |
+| Critical | Easy | Memory dump analysis in a practical scenario using Volatility |
+
+### 📧 Phishing Analysis
+| Room | Difficulty | What I Learned |
+|------|------------|----------------|
+| Phishing Analysis Fundamentals | Easy | Email components, phishing indicators, header analysis |
+| Phishing Emails in Action | Easy | Real phishing email analysis, identifying attack techniques |
+
+### 🚨 Incident Response
+| Room | Difficulty | What I Learned |
+|------|------------|----------------|
+| Preparation (IR) | Easy | Preparation phase of the Incident Response lifecycle |
+
+### 💼 Cybersecurity Careers
+| Room | Difficulty | What I Learned |
+|------|------------|----------------|
+| Careers in Cyber | Intro | Different career paths in cybersecurity |
 
 ---
 
-### ⚔️ Seguridad Ofensiva
-| Room | Dificultad | Lo que aprendí |
-|------|-----------|----------------|
-| [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro) | Fácil | Introducción al hacking ético, primera experiencia hackeando un sitio legalmente |
-
----
-
-### 🛡️ Seguridad Defensiva y SOC
-| Room | Dificultad | Lo que aprendí |
-|------|-----------|----------------|
-| [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro) | Fácil | Introducción a SOC, SIEM, DFIR, análisis de malware básico |
-| [Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo) | Fácil | Uso de SIEM dashboard, identificación de IPs maliciosas, escalación de alertas, bloqueo en firewall |
-| [SOC Fundamentals](https://tryhackme.com/room/socfundamentals) | Fácil | Rol de analista SOC L1, modelo de las 5 Ws, análisis de port scanning |
-| [SOC Role in Blue Team](https://tryhackme.com/room/socroleinblueteam) | Fácil | Rol del SOC en el equipo defensivo, detección y respuesta a incidentes |
-| [SOC L1 Alert Triage](https://tryhackme.com/room/socl1alerttriage) | Fácil | Triaje de alertas SOC, enfoque sistemático para priorizar incidentes |
-| [Intro to Detection Engineering](https://tryhackme.com/room/introtodetectioneng) | Fácil | Qué es Detection Engineering, cómo funciona en un SOC, construcción de detecciones efectivas |
-
----
-
-### 🔍 Forense Digital
-| Room | Dificultad | Lo que aprendí |
-|------|-----------|----------------|
-| [Intro to Digital Forensics](https://tryhackme.com/room/introdigitalforensics) | Fácil | Fundamentos de informática forense, procesos y práctica con ejemplo real |
-
----
-
-### 💼 Carrera en Ciberseguridad
-| Room | Dificultad | Lo que aprendí |
-|------|-----------|----------------|
-| [Careers in Cyber](https://tryhackme.com/room/careersincyber) | Intro | Diferentes carreras en ciberseguridad |
-
----
-
-## 🏅 Badges TryHackMe
-| Badge | Descripción |
+## 🏅 TryHackMe Badges
+| Badge | Description |
 |-------|-------------|
-| 🔥 7 Day Streak | Racha de 7 días hackeando |
-| 🔥 3 Day Streak | Racha de 3 días hackeando |
-| 🐧 cat linux.txt | Competencia en Linux |
-| 🕸️ Webbed | Competencia en tecnologías web |
+| 🔥 7 Day Streak | 7 consecutive days of hacking |
+| 🔥 3 Day Streak | 3 consecutive days of hacking |
+| 🐧 cat linux.txt | Linux competency |
+| 🕸️ Webbed | Web technologies competency |
 
 ---
 
-## 📊 Progreso General
-- **Rooms completados:** 15
-- **Áreas cubiertas:** Linux, Redes, Windows, Seguridad Ofensiva, SOC/Blue Team, Forense Digital
-- **Enfoque de carrera:** Blue Team · Cloud Security · AI-integrated Security
-
----
-
-*Actualizado: Junio 2026*
+## 📊 Overall Progress
+- **Rooms completed:** 19
+- **Areas covered:** Linux, Networking, Windows, Offensive Security, SOC/Blue Team, Digital Forensics, Phishing Analysis, Incident Response
+- **Career focus:** Blue Team · SOC Analyst · Cloud Security · AI-integrated Security
