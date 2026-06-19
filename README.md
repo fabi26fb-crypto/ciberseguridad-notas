@@ -79,3 +79,21 @@
 - **Rooms completed:** 19
 - **Areas covered:** Linux, Networking, Windows, Offensive Security, SOC/Blue Team, Digital Forensics, Phishing Analysis, Incident Response
 - **Career focus:** Blue Team · SOC Analyst · Cloud Security · AI-integrated Security
+
+
+---
+
+## ☁️ Azure Labs Practice — Microsoft Learn
+
+| # | Lab | Key Concepts |
+|---|-----|--------------|
+| 01 | Deploy a Static Website with Azure Blob Storage | Blob Storage, $web container, static hosting |
+| 02 | Organize and Protect Resources with Tags and Locks | Tags, Delete/ReadOnly locks, governance |
+| 03 | Build a Basic Website Endpoint with Azure Functions | Serverless, HTTP trigger, Function App |
+| 04 | Configure New Employee Access (Entra ID & RBAC) | Entra ID, RBAC, least privilege, IAM |
+| 05 | Share Files Securely with SAS Tokens | SAS tokens, Stored Access Policies, Zero Trust |
+
+**Labs completed:** 5 of 8  
+**Path:** AZ-900 → SC-900 → SC-200 → AZ-500
+
+
